@@ -1,0 +1,23 @@
+GET http://localhost:3000/signup
+
+###
+
+POST http://localhost:3000/login
+content-type: application/json
+
+{
+    "email":"vbelwal@gmail.com",
+    "password":"hellopassword"
+}
+
+
+###
+
+
+POST http://localhost:3000/signup
+content-type: application/json
+
+{
+    "email":"shristiBelwal@gmail.com",
+    "password":"hiddenKeySeekIt"
+}
