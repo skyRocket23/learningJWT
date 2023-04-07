@@ -18,6 +18,6 @@ POST http://localhost:3000/signup
 content-type: application/json
 
 {
-    "email":"shristiBelwal@gmail.com",
-    "password":"hiddenKeySeekIt"
+    "email":"perseveranceCF@gmail.com",
+    "password":"123456"
 }
